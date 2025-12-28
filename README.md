@@ -26,7 +26,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
-```
+~~~
 server.html<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -145,6 +145,7 @@ urlpatterns = [
     path('', views.calculate_bmi, name='calculate_bmi'),
 ]
 ~~~
+
 
 
 ## SERVER SIDE PROCESSING:
